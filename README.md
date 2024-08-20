@@ -1,1 +1,17 @@
-# Estudos_Typescript
+# 🔵 Estudos de TypeScript
+
+TypeScript é um *superconjunto* (um conjunto que tem todos os elementos de um conjunto mais elementos adicionais) de JavaScript que adiciona, por exemplo, tipagem estática e orientação a objetos na linguagem, coisas que não estavam presentes nativamente em JS. É muito utilizado em projetos de Desenvolvimento WEB, pois as adições e simplificações em relação a JS tornam uma o TS facilitam a refatoração, manutenção, evitar erros por tipagem, entre outros aspectos. 
+
+## Compilando os programas em TS:
+
+Para rodar os programas em **Typescript** é necessário compilar para gerar um arquivo Javascript (.js) para podermos fazer a execução:
+```bash
+tsc nome_do_programa.ts
+```
+
+Se tudo tiver dado certo, irá ser criado o arquivo: `nome_do_programa.js`
+Para rodar esse arquivo, digite:
+
+```bash
+node nome_do_programa.js
+```
