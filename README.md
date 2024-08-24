@@ -5,16 +5,5 @@ TypeScript é um *superconjunto* (um conjunto que tem todos os elementos de um c
 Nesse repositório ficarão os exercícios feitos seguindo o curso de TS no Canal [**CFBCursos**](https://www.youtube.com/@cfbcursos):
 - [Playlist do Curso de Typescript](https://www.youtube.com/playlist?list=PLx4x_zx8csUhtPMrkiGvFJVE5LX8Qat5s);
 
-## Compilando os programas em TS:
 
-Para rodar os programas em **Typescript** é necessário compilar para gerar um arquivo Javascript (.js) para podermos fazer a execução:
-```bash
-tsc nome_do_programa.ts
-```
 
-Se tudo tiver dado certo, irá ser criado o arquivo: `nome_do_programa.js`
-Para rodar esse arquivo, digite:
-
-```bash
-node nome_do_programa.js
-```
