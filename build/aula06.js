@@ -1,0 +1,15 @@
+"use strict";
+let numeros = [1, 2, 3, 4, 5];
+let numeros1 = [1, 2, 3, 4, 5];
+numeros.pop();
+console.log(numeros);
+numeros.push(21);
+console.log(numeros);
+numeros.unshift(100);
+console.log(numeros);
+numeros.shift();
+console.log(numeros);
+let numeros_readonly = [1, 2, 3, 4, 5];
+let strings_readonly = ["Odair", "Susie", "Chloe"];
+let varias_coisas_readonly = ["Odair", 1, "Susie", 2];
+let mais_varias_coisas_readonly = [];
