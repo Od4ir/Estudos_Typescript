@@ -1,0 +1,11 @@
+"use strict";
+let things = ["Panda", 10];
+console.log(things);
+console.log(things[0]);
+console.log(things[1]);
+let things2 = ["Susie", 20, true];
+console.log(things2);
+things2.push(false);
+console.log(things2);
+let things3 = ["Chloe", 30, false];
+console.log(things3);
