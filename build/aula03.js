@@ -1,5 +1,4 @@
 "use strict";
-// Criação de uma classe:
 class Pessoa {
     nome = null;
     sobrenome = null;

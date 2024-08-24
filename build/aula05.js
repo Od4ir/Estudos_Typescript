@@ -1,0 +1,17 @@
+"use strict";
+let pessoas = [];
+let nomes = ["Odair", "Susie", "Chloe"];
+nomes.push("Panda");
+console.log(nomes);
+let series = [];
+let valor_x;
+valor_x = "Odair";
+console.log(valor_x);
+valor_x = 1;
+console.log(valor_x);
+let valor_y;
+valor_y = true;
+valor_y = 1;
+valor_y = "Odair";
+valor_y = series;
+let valores = ["Odair", 1, "Susie", 2];
