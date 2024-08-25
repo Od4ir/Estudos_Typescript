@@ -17,4 +17,4 @@ tupla[0] = "Panda"; >> Vai dar ruim;
 
 ```
 
-Em JS não existe o conceito de *readonly* em JS:
+Em JS não existe o conceito de *readonly*. 
