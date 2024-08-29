@@ -1,10 +1,9 @@
-import './App.css'
+import '../App.css'
+import { Routess } from './routes'
 
 function App() {
   return (
-    <>
-      Olá mundo!
-    </>
+    <Routess />
   )
 }
 
